@@ -1,0 +1,7 @@
+D:\PersonalData\Projects\E-Commerce\ECommerceTest\HackerRank\bin\Debug\HackerRank.exe.config
+D:\PersonalData\Projects\E-Commerce\ECommerceTest\HackerRank\bin\Debug\HackerRank.exe
+D:\PersonalData\Projects\E-Commerce\ECommerceTest\HackerRank\bin\Debug\HackerRank.pdb
+D:\PersonalData\Projects\E-Commerce\ECommerceTest\HackerRank\obj\Debug\HackerRank.csproj.AssemblyReference.cache
+D:\PersonalData\Projects\E-Commerce\ECommerceTest\HackerRank\obj\Debug\HackerRank.csproj.CoreCompileInputs.cache
+D:\PersonalData\Projects\E-Commerce\ECommerceTest\HackerRank\obj\Debug\HackerRank.exe
+D:\PersonalData\Projects\E-Commerce\ECommerceTest\HackerRank\obj\Debug\HackerRank.pdb
